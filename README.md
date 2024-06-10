@@ -1,8 +1,8 @@
-# Laboratorio - Migraciones
+# Laboratorio - Vista de Datos
 
 ## Description
 
-Desarrollado de migraciones usando el ORM Prisma.
+Desarrollo de vista de los datos que provienen de la BD.
 
 ## Installation
 
@@ -29,23 +29,11 @@ Configuración del .env
 
 ![env](/assets/env.png)
 
-Creación de la tabla con el ORM Prisma
+Tabla con el ORM Prisma
 
 ![Uso del Orm para la BD](/assets/setup.png)
 
-Migración ejecutada
+Vista de los datos que vienen de la BD
 
-![comando migracion](/assets/migracion.png)
+![image](https://github.com/Arturo-CS/migraciones-vista/assets/128654866/7efe634f-1cf7-4533-a27a-ce1157ff3fe8)
 
-![base de datos](/assets/bd.png)
-
-Inserción de Datos
-
-![insercion](/assets/insercion.png)
-![tabla](/assets/tabla.png)
-
-Nueva Migración
-
-![change](/assets/change.png)
-![change text](/assets/change-person.png)
-![null](/assets/null.png)
